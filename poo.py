@@ -22,3 +22,4 @@ vendedor1 = Vendedor(nome_vendedor)
 vendas = int(input(f"Quanto o vendedor {nome_vendedor} vendeu? "))
 vendedor1.vendeu(vendas)
 vendedor1.bateu_meta(800)
+"""print("EU VOU CONSEGUIR!!")"""
